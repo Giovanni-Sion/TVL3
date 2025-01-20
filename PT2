@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class GFG {
+    public static void main(String[] args) {
+        int num1 = 5, num2 = 100, res;
+        
+        res = num1 + num2;
+        System.out.println("Addition Result = " + res);
+        res = num1 - num2;
+        System.out.println("Subtraction Result = " + res);
+        res = num1 * num2;
+        System.out.println("Multiplication Result = " + res);
+        res = num1 / num2;
+        System.out.println("Division Result = " + res);
+  }
+}
